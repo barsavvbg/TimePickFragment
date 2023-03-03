@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimePicker</string>
+    <string name="choose_time">Установите время</string>
+    <string name="ready">Готово</string>
+    <string name="hours">Часы</string>
+    <string name="minutes">Минуты</string>
+</resources>
